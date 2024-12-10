@@ -49,7 +49,7 @@ begin
 end
 endmodule
 ```
-Developed by: RegisterNumber:24900671
+Developed by:PRIYANKA P RegisterNumber:24900671
 
 
 **RTL LOGIC UP COUNTER**
