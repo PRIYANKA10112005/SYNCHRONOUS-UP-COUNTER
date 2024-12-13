@@ -57,7 +57,8 @@ Developed by:PRIYANKA P RegisterNumber:24900671
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-![Screenshot 2024-12-07 083815](https://github.com/user-attachments/assets/e960d5b9-54c0-4213-bf1a-3937615f539f)
+![Screenshot 2024-12-10 112610](https://github.com/user-attachments/assets/c87a16bf-a765-40b1-9f1a-67f17650601a)
+
 
 **TRUTH TABLE**
 
